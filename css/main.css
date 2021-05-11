@@ -125,7 +125,7 @@ main .main-buttons div {
 main .main-buttons button {
     height: 36px;
     background-color: #f8f9fa;
-    border: 0;
+    border: 1px solid transparent;
     font-size: 1.4rem;
     color: #3c4043;
     border-radius: 5px;
