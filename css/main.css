@@ -134,9 +134,42 @@ main .main-buttons button {
 }
 
 main .main-buttons button:hover {
-    /* cursor: pointer; */
+    cursor: pointer;
     box-shadow: 0 1px 1px rgb(0 0 0 / 10%);
     background-color: #f8f9fa;
     border: 1px solid #dadce0;
     color: #222;
+}
+
+/* Usando Grid Layout, 1fr -> 1 fraccion*/
+
+footer {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    font-size: 1.3rem;
+    background-color: #f2f2f2;
+    border-top: 1px solid #e4e4e4;
+}
+
+footer ul {
+    list-style-type: none;
+    display: flex;
+    padding-left: 0;
+}
+
+footer .footer-left {
+    justify-content: flex-start;
+}
+
+footer .footer-right {
+    justify-content: flex-end;
+}
+
+footer ul li a {
+    margin: 15px;
+    color: #5f6368;
 }
