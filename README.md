@@ -8,4 +8,5 @@ Proyecto realizado para crear un Google Clone con el fin de poner en práctica l
 - Muchas ganas de aprender :tw-2764:
 
 ### Resultado
-[![](Resultado)](./images/screenshot.png)
+
+![Screenshot](images/screenshot.png)
