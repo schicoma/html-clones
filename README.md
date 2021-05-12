@@ -8,4 +8,4 @@ Proyecto realizado para crear un Google Clone con el fin de poner en práctica l
 - Muchas ganas de aprender :tw-2764:
 
 ### Resultado
-[![](Resultado)](https://github.com/schicoma/google-clone/blob/main/images/screenshot.png)
+[![](Resultado)](./images/screenshot.png)
