@@ -5,7 +5,7 @@ Proyecto realizado para crear un Google Clone con el fin de poner en práctica l
 - Desktop con Ubuntu 20.04
 - Visual Studio Code
 - Chrome / Brave Browser
-- Muchas ganas de aprender :tw-2764:
+- Muchas ganas de aprender 💪
 
 ### Resultado
 
